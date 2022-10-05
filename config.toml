@@ -1,0 +1,23 @@
+baseURL = 'https://babinion.xyz/'
+languageCode = 'ro'
+title = 'Oleacă profesor'
+theme = 'basic'
+
+[taxonomies]
+  genres = "genres"
+  tag = "tags"
+
+[Permalinks]
+  note = "note/:slug"
+
+[[params.menu]]
+  name = "notițe"
+  url = "note/"
+
+[[params.menu]]
+  name = "cărți"
+  url = "genres/"
+
+[[params.menu]]
+  name = "despre"
+  url = "about/"

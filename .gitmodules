@@ -1,0 +1,3 @@
+[submodule "themes/basic"]
+	path = themes/basic
+	url = git@github.com:owhyy/hugo-theme-basic.git
