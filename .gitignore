@@ -1,2 +1,4 @@
 org
 tags
+.hugo_build.lock
+public/

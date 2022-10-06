@@ -2,6 +2,9 @@ baseURL = 'https://babinion.xyz/'
 languageCode = 'ro'
 title = 'Oleacă profesor'
 theme = 'basic'
+enableEmoji = false
+copyright = "© 2020-2050 <a href='https://github.com/owhyy/website-hugo'>Babin Ion</a>."
+description = "Locul unde scriu ce-mi dă mie prin cap"
 
 [taxonomies]
   genres = "genres"
@@ -9,6 +12,7 @@ theme = 'basic'
 
 [Permalinks]
   note = "note/:slug"
+  book = "book/:slug"
 
 [[params.menu]]
   name = "notițe"
