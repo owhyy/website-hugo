@@ -2,7 +2,6 @@ baseURL = 'https://babinion.xyz/'
 languageCode = 'ro'
 title = 'Oleacă profesor'
 theme = 'basic'
-enableEmoji = false
 copyright = "© 2020-2050 <a href='https://github.com/owhyy/website-hugo'>Babin Ion</a>."
 description = "Locul unde scriu ce-mi dă mie prin cap"
 
@@ -13,6 +12,7 @@ description = "Locul unde scriu ce-mi dă mie prin cap"
 [Permalinks]
   note = "note/:slug"
   book = "book/:slug"
+  thought = "thought/:slug"
 
 [[params.menu]]
   name = "notițe"
@@ -21,6 +21,10 @@ description = "Locul unde scriu ce-mi dă mie prin cap"
 [[params.menu]]
   name = "cărți"
   url = "genres/"
+
+[[params.menu]]
+  name = "gânduri"
+  url = "thought/"
 
 [[params.menu]]
   name = "despre"
