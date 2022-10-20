@@ -2,7 +2,7 @@ baseURL = 'https://babinion.xyz/'
 languageCode = 'ro'
 title = 'Oleacă profesor'
 theme = 'basic'
-copyright = "© 2020-2050 <a href='https://github.com/owhyy/website-hugo'>Babin Ion</a>."
+copyright = "© 2020-- <a href='https://github.com/owhyy/website-hugo'>Babin Ion</a>."
 description = "Locul unde scriu ce-mi dă mie prin cap"
 
 [taxonomies]
