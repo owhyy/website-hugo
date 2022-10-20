@@ -1,5 +1,5 @@
 +++
-title = "Notite Bazele Legislatiei"
+title = "Notițe Bazele Legislatiei"
 author = ["Babin Ion"]
 date = 2022-10-05T00:00:00+03:00
 tags = ["bazele-legislatiei", "school"]
@@ -30,8 +30,6 @@ draft = false
 
 ### Sistemul de drept in RM: continental/roman {#sistemul-de-drept-in-rm-continental-roman}
 
--   _nush ce inseamna. treb de cautat_
-
 
 ### Ce este o ramura a dreptului? {#ce-este-o-ramura-a-dreptului}
 
@@ -60,12 +58,13 @@ In dependenta de numarul de voturi necesare pentru a fi acceptate, si lucrurile 
 
 Toate puterile in stat adopta acte normative. Totusi, fiecare adopta acte normative specifice:
 
--   Parlamentul: adopta **legi**, _hotarari, motiuni_.
+-   ParlamentuL: adopta **legi**, _hotarari, motiuni_.
 -   Guvernul: ???
 -   Presidentia: decret
 
 
 ## Notiunea si continutul cetateniei. Moduri de dobandire si pierdere a cetateniei. Drepturi si libertati fundamentale ale omului si cetateanului {#notiunea-si-continutul-cetateniei-dot-moduri-de-dobandire-si-pierdere-a-cetateniei-dot-drepturi-si-libertati-fundamentale-ale-omului-si-cetateanului}
+
 
 
 ### Abilitati: {#abilitati}
@@ -90,4 +89,20 @@ Toate puterile in stat adopta acte normative. Totusi, fiecare adopta acte normat
 -   Dreptul international
 -   Legea cetateniei RM
 
-[Înapoi](../../index.html)
+
+## Dreptul muncii si protectiei sociale. Trasaturile caracteristice si locul dreptului muncii in sistemul de drept. Principiile si izvoarele dreptului muncii. Raportul juridic de munca {#dreptul-muncii-si-protectiei-sociale-dot-trasaturile-caracteristice-si-locul-dreptului-muncii-in-sistemul-de-drept-dot-principiile-si-izvoarele-dreptului-muncii-dot-raportul-juridic-de-munca}
+
+-   Codul muncii: reglementează contractul de muncă.
+
+
+## Noțiuni generale privind contractul de muncă. Condițiile și modul de încheiere a unui contract individual de muncă. Timpul de muncă și timpul de odihnă. Sistemul de salarizare în Republica Moldova. {#noțiuni-generale-privind-contractul-de-muncă-dot-condițiile-și-modul-de-încheiere-a-unui-contract-individual-de-muncă-dot-timpul-de-muncă-și-timpul-de-odihnă-dot-sistemul-de-salarizare-în-republica-moldova-dot}
+
+-   Statul impune angajatorului să creeze anumite condiții, dar nu îl impune să angajeze.
+-   Principalii subiecți: angajat și angajator. Pe lângă, sunt patronate, sindicate, inspecția muncii.
+-   Conflictele pot fi rezolvate direct între cele două părți.
+-   Puncte obligatorii într-un contract:
+    -   salarizarea
+    -   timpul de muncă
+    -   drepturile, responsabilitățile angajatului
+    -   drepturile, responsabilitățile angajatorului
+    -   clauze
