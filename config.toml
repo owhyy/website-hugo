@@ -27,5 +27,17 @@ description = "Locul unde scriu ce-mi dă mie prin cap"
   url = "thought/"
 
 [[params.menu]]
+  name = "zk"
+  url = "zk/"
+
+[[params.menu]]
+  name = "bibliotecă"
+  url = "booklist/"
+
+[[params.menu]]
+  name = "cool"
+  url = "cool/"
+
+[[params.menu]]
   name = "despre"
   url = "about/"

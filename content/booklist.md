@@ -14,10 +14,12 @@ draft = false
 -   [ ] Florile răului by Charles Baudelaire
 -   [ ] Amurgul gandurilor by Emil Cioran
 -   [ ] Demiurgul cel rau by Emil Cioran
--   [ ] Romeo si Julieta by W. Shakespeare
 -   [ ] [Hronicul și cântecul vârstelor by Lucian Blaga]({{< relref "hronic" >}})
 -   [ ] Sărbătoarea Țapului by Mario Vargas Llosa
 -   [ ] Otțî i deti by Ivan Turgenev
+-   [ ] Teenage liberation handbook by Grace Llewellyn
+-   [ ] Thus Spoke Zarathustra by Friedrich Nietzche
+-   [ ] The Wisdom of Life by Arthur Schopenhauer
 
 
 ## Știință {#știință}
@@ -185,7 +187,6 @@ draft = false
 -   [ ] Человек, нашедший свое лицо by Aleksandr Romanovich Belyaev
 -   [ ] Прыжок в ничто by Aleksandr Romanovich Belyaev
 -   [ ] Зов Ктулху by H. P. Lovecraft
--   [ ] Так говорил Заратустра by Friedrich Nietzche
 -   [X] Clopotul de sticla by Sylvia Plath
 -   [ ] Wuthering Heights by Emily Bronte
 -   [ ] Therese Raquin by Emile Zola
@@ -421,6 +422,7 @@ draft = false
 -   [ ] Crossing to Safety by Wallace Staegner (reccomended by TDD)
 -   [X] Amoc by Stefan Zweig
 -   [X] Obsedatul by Stefan Zweig
+-   [X] Romeo si Julieta by W. Shakespeare
 
 
 ### Trebuiesc recitite {#trebuiesc-recitite}
